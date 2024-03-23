@@ -53,12 +53,12 @@
 						<div class="nwb_gradient inner">
 							<div class="major">
 								<h2>Tanzball im Königssaal</h2>
-								<p>Lasst uns am <b>27. Januar 2023</b> (Uhrzeit folgt) gemeinsam das Tanzbein schwingen.</br>Alle wichtigen Informationen findet ihr demnächst hier auf unserer Website.<br /></p>
+								<p>Lasst uns am <b>26. / 27. April 2024</b> (Uhrzeit folgt) gemeinsam das Tanzbein schwingen.</br>Alle wichtigen Informationen findet ihr demnächst hier auf unserer Website.<br /></p>
                                 
                                 <h4>Programm des Abends</h4>
 		<p>Wird noch veröffentlicht.</p>
                                 
-<!--                                 <p><b>Tickets</b> erhaltet ihr ab dem 26.11.2019 (12:00) für 30€ bei euren Fachschaften.</p> -->
+<!--                                 <p><b>Tickets</b> erhaltet ihr ab dem 15.04.2024 für 35€ bei euren Fachschaften.</p> -->
 							</div>
 							<!-- <ul class="icons major"> -->
 								<!-- <li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li> -->
