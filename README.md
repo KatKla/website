@@ -41,7 +41,7 @@
 					<section id="banner">
 						<div class="inner nwb_gradient" id="banner-text-container">
 							<h2 class="nwb_gradient">III. Naturwissenschaftsball</h2>
-							<b><p>27. Januar 2023<br>
+							<b><p>26. / 27. April 2024<br>
 							Schloss Heidelberg</p></b>
 							
 						</div>
@@ -144,7 +144,7 @@
 						<div class="inner">
 							
 						</div>
-                        <img width="100%" id ="skyline" src="images/skyline.png" />
+                        <img width="100%" id ="skyline" src="DesignQuadratisch.jpeg" />
 					</section>
                     
 				<!-- Footer -->
