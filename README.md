@@ -47,10 +47,10 @@
 						<div class="nwb_gradient inner">
 							<div class="major">
 								<h2>Tanzball im Königssaal</h2>
-								<p>Lasst uns am <b>26. / 27. April 2024</b> von 19:00 - 02:00 Uhr gemeinsam das Tanzbein schwingen.</br>Alle wichtigen Informationen findet ihr demnächst hier auf unserer Website.<br /></p>
+								<p>Lasst uns am <b>26. / 27. April 2024</b> von 19:00 - 02:00 Uhr gemeinsam das Tanzbein schwingen! Alle wichtigen Informationen findet ihr demnächst hier auf unserer Website. </p>
                                 
-                                <h4>Programm des Abends</h4>
-		<p>Wird noch veröffentlicht.</p>
+                                #<h4>Programm des Abends</h4>
+		#<p>Wird noch veröffentlicht.</p>
                                 
 <!--                                 <p><b>Tickets</b> erhaltet ihr ab dem 15.04.2024 für 35€ bei euren Fachschaften.</p> -->
 							</div>
