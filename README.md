@@ -47,7 +47,7 @@
 						<div class="nwb_gradient inner">
 							<div class="major">
 								<h2>Tanzball im Königssaal</h2>
-								<p>Lasst uns am <b>26. / 27. April 2024</b> (Uhrzeit folgt) gemeinsam das Tanzbein schwingen.</br>Alle wichtigen Informationen findet ihr demnächst hier auf unserer Website.<br /></p>
+								<p>Lasst uns am <b>26. / 27. April 2024</b> von 19:00 - 02:00 Uhr gemeinsam das Tanzbein schwingen.</br>Alle wichtigen Informationen findet ihr demnächst hier auf unserer Website.<br /></p>
                                 
                                 <h4>Programm des Abends</h4>
 		<p>Wird noch veröffentlicht.</p>
