@@ -138,7 +138,7 @@
 						<div class="inner">
 							
 						</div>
-                        <img width="100%" id ="skyline" src="DesignQuadratisch.jpeg" />
+                        <img width="100%" id ="skyline" src="images/Skyline2024.png" />
 					</section>
                     
 				<!-- Footer -->
